@@ -1,5 +1,3 @@
-# Crop-prediction-model
-
 # Crop Prediction and Analysis
 
 This project focuses on predicting crop prices and analyzing various factors affecting crop prices in different states in India. The analysis includes exploratory data analysis (EDA), model building using neural networks, random forest, and XGBoost, as well as visualizations of best and worst crops by state.
